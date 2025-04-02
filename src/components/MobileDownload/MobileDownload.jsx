@@ -1,5 +1,5 @@
 import React from 'react'
-import './mobileDownload.css'
+import './MobileDownload.css'
 import { assets } from '../../assets/asset'
 
 function MobileDownload() {
