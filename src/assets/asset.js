@@ -3,7 +3,6 @@ import rating from './rating1.jpg'
 
 import dessert from "./desserts.jpg";
 import rolls from "./rolls.jpg";
-import Sandwich from "./Sandwich.jpg";
 import salad from "./salad.jpg";
 import pasta from "./pasta.jpg";
 import noodles from "./noodles.jpg";
